@@ -33,7 +33,7 @@ El proyecto está organizado en los siguientes paquetes:
 1. Clona el repositorio desde GitHub:
 
 ```bash
-
+https://github.com/Matiaseleizer/LlanquihueTour.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -47,7 +47,7 @@ El proyecto está organizado en los siguientes paquetes:
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
+**Repositorio GitHub:** \[https://github.com/Matiaseleizer/LlanquihueTour.git]
 **Fecha de entrega:** \[06/06/2026]
 
 ---
